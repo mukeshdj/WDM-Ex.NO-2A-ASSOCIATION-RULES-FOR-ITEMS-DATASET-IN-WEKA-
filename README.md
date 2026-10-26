@@ -1,6 +1,6 @@
 # WDM-Ex.NO-2A-ASSOCIATION-RULES-FOR-ITEMS-DATASET-IN-WEKA-
-## Name: Madhu Mitha V
-## Reg.no: 2305002013
+## Name: MUKESH S
+## Reg.no: 2305002016
 ## Aim:
 To Find the Association Rules for Buying dataset.
 ## Description:
